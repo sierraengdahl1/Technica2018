@@ -1,3 +1,3 @@
 # Technica2018
 
-#this is my readme
+this is my readme
